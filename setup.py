@@ -35,7 +35,7 @@ setup(
         'Markdown==3.5.2',
         'MarkupSafe==2.1.5',
         'ordered-set==4.1.0',
-        'PyMuPDF==1.24.2',
+        'PyMuPDF==1.24.4',
         'Pillow==10.3.0',
         'watchdog==4.0.0',
         'requests==2.31.0',
